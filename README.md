@@ -92,22 +92,6 @@ Key analysis:
 - Medical Condition Ranking
 - Medical Condition Claim Analysis
 
-## Dashboard Screenshots
-
-### 1. Executive Overview
-![Executive Overview](Dashboards%20Screenshot/01_Executive_Overview.png)
-
-### 2. Claims Analysis
-![Claims Analysis](Dashboards%20Screenshot/02_Claims_Analysis.png)
-
-### 3. Premium & Policy Performance
-![Premium & Policy Performance](Dashboards%20Screenshot/03_Premium_Policy_Performance.png)
-
-### 4. Customer & Risk Analysis
-![Customer & Risk Analysis](Dashboards%20Screenshot/04_Customer_Risk_Analysis.png)
-
-### 5. Medical & Hospital Insights
-![Medical & Hospital Insights](Dashboards%20Screenshot/05_Medical_Hospital_Insights.png)
 ## Key Skills Demonstrated
 
 - Data Cleaning and Transformation using Power Query
