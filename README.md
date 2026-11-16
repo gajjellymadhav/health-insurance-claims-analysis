@@ -95,19 +95,19 @@ Key analysis:
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+![Executive Overview](Dashboards Screenshot/01_Executive_Overview.png) 01_Executive_Overview.png
 
 ### Claims Analysis
-![Claims Analysis](Dashboard_Screenshots/02_Claims_Analysis.png)
+![Claims Analysis](Dashboards Screenshot/02_Claims_Analysis.png)
 
 ### Premium & Policy Performance
-![Premium & Policy Performance](Dashboard_Screenshots/03_Premium_Policy_Performance.png)
+![Premium & Policy Performance](Dashboards Screenshot/03_Premium_Policy_Performance.png)
 
 ### Customer & Risk Analysis
-![Customer & Risk Analysis](Dashboard_Screenshots/04_Customer_Risk_Analysis.png)
+![Customer & Risk Analysis](Dashboards Screenshot/04_Customer_Risk_Analysis.png)
 
 ### Medical & Hospital Insights
-![Medical & Hospital Insights](Dashboard_Screenshots/05_Medical_Hospital_Insights.png)
+![Medical & Hospital Insights](Dashboards Screenshot/05_Medical_Hospital_Insights.png)
 
 ## Key Skills Demonstrated
 
